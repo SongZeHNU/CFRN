@@ -46,6 +46,8 @@ To test with trained model:
 python MyTesting.py --pth_path './snapshot/CRFNet/Net_epoch.pth'
 ```
 
+You can also download prediction maps from [Google Drive](https://drive.google.com/file/d/1ombdf_MYJ9fc1UpbipGws5Gr5R8m9dml/view?usp=drive_link).
+
 ### 4. Evaluation 
 
 We use public one-key evaluation, which is written in MATLAB code ([link](https://drive.google.com/file/d/1_h4_CjD5GKEf7B1MRuzye97H0MXf2GE9/view?usp=sharing)). 
