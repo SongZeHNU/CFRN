@@ -56,6 +56,7 @@ Please follow this the instructions in `./eval/main.m` and just run it to genera
 
 Please cite our paper if you find the work useful, thanks!
 
+
 @article{song2025continuous,
   title={Continuous Feature Representation for Camouflaged Object Detection},
   author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Liu, Jinyang and Lin, Zheng and Li, Shutao},
