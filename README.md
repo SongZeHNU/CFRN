@@ -51,19 +51,19 @@ python MyTesting.py --pth_path './snapshot/CRFNet/Net_epoch.pth'
 We use public one-key evaluation, which is written in MATLAB code ([link](https://drive.google.com/file/d/1_h4_CjD5GKEf7B1MRuzye97H0MXf2GE9/view?usp=sharing)). 
 Please follow this the instructions in `./eval/main.m` and just run it to generate the evaluation results in `./res/`.
 
-
 ## Citation
 
 Please cite our paper if you find the work useful, thanks!
 
 
-@article{song2025continuous,
-  title={Continuous Feature Representation for Camouflaged Object Detection},
-  author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Liu, Jinyang and Lin, Zheng and Li, Shutao},
-  journal={IEEE Transactions on Image Processing},
-  year={2025},
-  publisher={IEEE}
-}
-	
+	@article{song2025continuous,
+  		title={Continuous Feature Representation for Camouflaged Object Detection},
+  		author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Liu, Jinyang and Lin, Zheng and Li, Shutao},
+  		journal={IEEE Transactions on Image Processing},
+  		year={2025},
+  		publisher={IEEE}
+	}
+
 
 **[⬆ back to top](#1-preface)**
+
